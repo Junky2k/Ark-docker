@@ -164,4 +164,5 @@ GID of the user used. Owner of the volume /ark
     - Added support for automatically updating on restart
     - Show a spinner when updating
   - Add UID & GID to set the uid & gid of the user used in the container (and permissions on the volume /ark)
-
++ 1.4 :
+  - Updated Ark Server Tools to Version v1.6.41
